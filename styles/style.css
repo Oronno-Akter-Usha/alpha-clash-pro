@@ -1,7 +1,11 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@400;500;600;700;800&display=swap');
 
-.poppins-regular {
+.font-poppins{
+  font-family: "Poppins", sans-serif;
+}
+
+/* .poppins-regular {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -28,6 +32,12 @@
   .poppins-extrabold {
     font-family: "Poppins", sans-serif;
     font-weight: 800;
+    font-style: normal;
+  } */
+  
+  .anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
     font-style: normal;
   }
   
